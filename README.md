@@ -1,3 +1,7 @@
+![Uploading IMG_20260520_202330.jpg…]()
+<img width="4160" height="3120" alt="IMG_20260520_202215" src="https://github.com/user-attachments/assets/c20bcf2f-070e-410f-bb1e-b37fa7bb2c2d" />
+<img width="4160" height="3120" alt="IMG_20260520_202053" src="https://github.com/user-attachments/assets/bab607c6-eb82-4770-a282-a914fdbd4cdc" />
+<img width="4160" height="3120" alt="IMG_20260520_201940" src="https://github.com/user-attachments/assets/830ab526-8968-4aa5-8e90-086d45cf9879" />
 #  A beginner Sql-queries-of-sales-dataset
 
 ## Project Overview
