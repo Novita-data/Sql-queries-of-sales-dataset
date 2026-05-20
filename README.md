@@ -1,5 +1,4 @@
-# Sql-queries-of-sales-dataset
-# Sales Superstore  SQL Analysis Project of a beginner
+#  A beginner Sql-queries-of-sales-dataset
 
 ## Project Overview
 This project explores and analyzes a Sales Superstore dataset using SQL in SQLite.  
@@ -53,10 +52,7 @@ The dataset contains sales-related information such as:
 - Product Name
 - Category
 - Sales
-- Quantity
-- Region
-
----
+-  Region
 
 # Analysis Performed
 
@@ -101,29 +97,3 @@ Through this project, I learned:
 
 ---
 
-# Project Structure
-
-SQL-Sales-Analysis-Project/
-
-├── dataset/
-
-├── queries/
-
-├── screenshots/
-
-└── README.md
-
----
-
-# Future Improvements
-
-- Add JOIN queries using multiple related tables
-- Practice CASE WHEN conditions
-- Explore advanced SQL functions
-- Build dashboard visualizations using Power BI
-
----
-
-# Author
-
-NOVITA NIXON
